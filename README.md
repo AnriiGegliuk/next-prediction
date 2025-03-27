@@ -2,7 +2,6 @@
 
 This repository contains the code and models for the following paper:
 
-
 **[Peeking into the Future: Predicting Future Person Activities and Locations in Videos](https://arxiv.org/abs/1902.03748)** \
 [Junwei Liang](https://junweiliang.me/),
 [Lu Jiang](http://www.lujiang.info/),
